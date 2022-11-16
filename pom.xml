@@ -18,7 +18,7 @@
 		<java.version>11</java.version>
 		<start-class>com.github.masterholdy.frontend.metasearch.MetaSearchApplication</start-class>
 		<lombok.version>1.18.2</lombok.version>
-		<jackson.version>2.12.1</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<jaxb.sun.core.version>2.3.0</jaxb.sun.core.version>
 		<jaxb.sun.impl.version>2.3.0</jaxb.sun.impl.version>
 		<javax.xml.bind.version>2.3.0</javax.xml.bind.version>
