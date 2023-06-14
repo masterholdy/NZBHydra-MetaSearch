@@ -25,7 +25,7 @@
 		<org.projectlombok.lombok>1.18.12</org.projectlombok.lombok>
 		<jakarta.xml.bind.version>2.3.2</jakarta.xml.bind.version>
 		<org.jsoup.version>1.14.2</org.jsoup.version>
-		<com.google.guava.version>29.0-jre</com.google.guava.version>
+		<com.google.guava.version>32.0.0-jre</com.google.guava.version>
 	</properties>
 
 	<dependencies>
